@@ -11,6 +11,7 @@ Aquest programa demana dos números: dividend i divisor,
 '''
 
 __author__ = "Arnau Roca-Cusachs Valls"
+__authors__ = "Arnau Roca-Cusahcs Valls"
 __email__ = "aroca-cusachs@instituticaria.cat"
 __date__ = "16/10/2024"
 
