@@ -6,7 +6,8 @@ Institut Icària
 Programació - 1r Batxillerat - Curs 2023-24
 
 Aquest programa demana dos números: dividend i divisor,
-  fa una divisió entera dels dos números entrats i mostra per pantalla la divisió, el quocient i el residu.
+  fa una divisió entera dels dos números entrats i mostra per pantalla
+ la divisio, el quocient i el residu.
 '''
 
 __author__ = "Arnau Roca-Cusachs Valls"
@@ -18,6 +19,6 @@ divisor = int(input("Introdueix el divisor: "))
 quocient = dividend // divisor
 residu = dividend % divisor
 
-print (f"Divisió: {dividend}/{divisor}")
-print (f"Quocient: {quocient}")
-print (f"Residu: {residu}")
+print(f"Divisió: {dividend}/{divisor}")
+print(f"Quocient: {quocient}")
+print(f"Residu: {residu}")
